@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Gopher
+Comment=Explore Gopherspace
+Exec=gopher
+Icon=gopher
+Terminal=true
+Type=Application
+Categories=Network;
+StartupNotify=true

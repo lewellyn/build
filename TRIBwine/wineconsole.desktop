@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Wine Command Prompt
+Comment=Command Prompt in Wine's filesystem
+Exec=wineconsole
+Icon=wineconsole
+Terminal=false
+Type=Application
+Categories=Utility;System;

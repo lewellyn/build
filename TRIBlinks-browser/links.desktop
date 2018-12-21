@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Links
+Comment=Mixed-mode (text/graphics) browser
+Exec=links http://tribblix.org/
+Icon=links
+Terminal=true
+Type=Application
+Categories=Network;
+StartupNotify=true

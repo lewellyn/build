@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Amaya
+Comment=Web Editor (HTML 4/XHTML 1)
+Exec=amaya
+Icon=amaya
+Terminal=false
+Type=Application
+Categories=Network;Development;
+StartupNotify=true

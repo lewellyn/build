@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CDE File Manager
+GenericName=File Manager
+Exec=/usr/dt/bin/dtfile
+Icon=dtfile
+Terminal=false
+Type=Application
+Categories=Settings;System;

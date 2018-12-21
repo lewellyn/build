@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WineMine
+GenericName=Minesweeper
+Exec=winemine
+Icon=winemine
+Type=Application
+Terminal=false
+Categories=Game;

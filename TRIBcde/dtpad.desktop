@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CDE Text Editor
+GenericName=Text Editor
+Exec=/usr/dt/bin/dtpad
+Icon=dtpad
+Type=Application
+Terminal=false
+Categories=Utility;TextEditor;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=X Solitaire
+Exec=xsol
+Icon=xsol
+Type=Application
+Terminal=false
+Categories=Game;

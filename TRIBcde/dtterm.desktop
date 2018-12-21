@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CDE Terminal
+GenericName=Terminal
+Exec=/usr/dt/bin/dtterm
+Icon=dtterm
+Type=Application
+Terminal=false
+Categories=Utility;System;TerminalEmulator;

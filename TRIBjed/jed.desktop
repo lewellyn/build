@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=JED Programmer's Editor
+Icon=text-editor
+Exec=xjed
+Terminal=false
+Categories=Office;WordProcessor;Utility;

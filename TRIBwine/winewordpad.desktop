@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Wine Wordpad
+Comment=Rich Text Editor in Wine's environment
+Exec=wine wordpad
+Icon=winewordpad
+Terminal=false
+Categories=Office;WordProcessor;

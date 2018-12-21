@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mutt
+Comment=Text-based mail client
+Exec=mutt
+Icon=mutt
+Terminal=true
+Type=Application
+Categories=Network;
+StartupNotify=true

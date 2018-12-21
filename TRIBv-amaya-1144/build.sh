@@ -14,6 +14,8 @@ gmake all
 #  ../thotlib/include/thot_sys.h because it's borked.
 mkdir -p /tmp/ama/usr/versions/Amaya11.4.4/Amaya
 gmake install DESTDIR=/tmp/ama
+mkdir -p /tmp/ama/usr/share/icons
+cp ../resources/icons/misc/logo.png /usr/share/icons/amaya.png
 ${THOME}/build/create_pkg TRIBv-amaya-1144 /tmp/ama
 #
 # if run remotely you get:

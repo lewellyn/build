@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Chimera
+Comment=Light web client
+Exec=/bin/sh -c 'WWW_HOME="http://tribblix.org/" chimera'
+Icon=web-browser
+Terminal=false
+Type=Application
+Categories=Network;

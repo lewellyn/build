@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=xgalaga
+Exec=xgalaga
+Icon=xgalaga
+Type=Application
+Terminal=false
+Categories=Game;ArcadeGame;

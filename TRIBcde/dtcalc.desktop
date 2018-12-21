@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CDE Calculator
+GenericName=Calculator
+Exec=/usr/dt/bin/dtcalc
+Icon=dtcalc
+Type=Application
+Terminal=false
+Categories=Utility;Office;Calculator;

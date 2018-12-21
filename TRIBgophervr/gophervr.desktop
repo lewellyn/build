@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GopherVR
+Comment=Virtual Reality view of Gopherspace
+Exec=gophervr
+Icon=gophervr
+Terminal=false
+Type=Application
+Categories=Network;

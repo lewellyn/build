@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=XDIR
+Comment=Advanced Graphical FTP Client
+GenericName=File Manager
+Exec=xdir
+Icon=file-manager
+Terminal=false
+Type=Application
+Categories=System;Network;

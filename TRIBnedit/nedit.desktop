@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=NEdit
+GenericName=Text Editor
+Icon=accessories-text-editor
+Exec=nedit
+Terminal=false
+Categories=Office;WordProcessor;Utility;

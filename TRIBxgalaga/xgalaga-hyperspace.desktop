@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=xgalaga-hyperspace
+Comment=Enhanced xgalaga
+Exec=xgalaga-hyperspace
+Icon=xgalaga
+Type=Application
+Terminal=false
+Categories=Game;ArcadeGame;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CDE Style Manager
+Comment=Configure CDE's Look & Feel
+Exec=/usr/dt/bin/dtstyle
+Icon=dtstyle
+Terminal=false
+Type=Application
+Categories=Settings;

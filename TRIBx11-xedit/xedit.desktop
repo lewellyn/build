@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=xedit
+Comment=Simple Text Editor
+Icon=accessories-text-editor
+Exec=xedit
+Terminal=false
+Categories=Office;WordProcessor;Utility;

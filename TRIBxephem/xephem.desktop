@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=XEphem
+Comment=The Serious Interactive Astronomical Software Ephemeris
+Icon=XEphem
+Exec=xephem
+Terminal=false
+Categories=Education;

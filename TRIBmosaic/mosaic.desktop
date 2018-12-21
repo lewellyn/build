@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mosaic
+Comment=One of the first popular graphic web browsers
+Exec=Mosaic
+Icon=xmosaic
+Terminal=false
+Type=Application
+Categories=Network;

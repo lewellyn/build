@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=tkdiff
+Comment=View differences between files
+Exec=tkdiff
+Icon=tkdiff
+Terminal=false
+Type=Application
+Categories=Development;

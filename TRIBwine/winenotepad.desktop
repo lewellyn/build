@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Wine Notepad
+Comment=Simple Text Editor in Wine's environment
+Icon=winenotepad
+Exec=wine notepad
+Terminal=false
+Categories=Office;WordProcessor;

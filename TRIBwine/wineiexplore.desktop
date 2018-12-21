@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Wine Web Browser
+Exec=wine iexplore
+Icon=wineiexplore
+Terminal=false
+Type=Application
+Categories=Network;

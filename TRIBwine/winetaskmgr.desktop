@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Wine Task Manager
+Comment=Manage Wine's Tasks
+Exec=wine taskmgr
+Icon=winetaskmgr
+Terminal=false
+Type=Application
+Categories=Utility;System;

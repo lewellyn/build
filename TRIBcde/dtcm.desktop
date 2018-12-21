@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CDE Calendar
+GenericName=Calendar
+Exec=/usr/dt/bin/dtcm
+Icon=dtcm
+Type=Application
+Terminal=false
+Categories=Utility;Office;Calendar;
